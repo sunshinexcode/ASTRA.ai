@@ -1,191 +1,171 @@
-![Banner Image](https://github.com/rte-design/ASTRA.ai/raw/main/images/banner-image-without-tagline.png)
+# README
 
-<div align="center">
+![Astra Banner Image](https://github.com/rte-design/docs/blob/main/assets/imgs/banner-image-without-tagline.png)
 
-[![Follow on X](https://img.shields.io/twitter/follow/AstraFramework?logo=X&color=%20%23f5f5f5)](https://twitter.com/intent/follow?screen_name=AstraFramework)
-[![Discussion posts](https://img.shields.io/github/discussions/rte-design/astra.ai?labelColor=%20%23FDB062&color=%20%23f79009)](https://github.com/rte-design/astra.ai/discussions/)
-[![Commits](https://img.shields.io/github/commit-activity/m/rte-design/astra.ai?labelColor=%20%237d89b0&color=%20%235d6b98)](https://github.com/rte-design/astra.ai/graphs/commit-activity)
-[![Issues closed](https://img.shields.io/github/issues-search?query=repo%3Arte-design%2Fastra.ai%20is%3Aclosed&label=issues%20closed&labelColor=green&color=green)](https://github.com/rte-design/ASTRA.ai/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rte-design/ASTRA.ai/pulls)
-[![GitHub license](https://img.shields.io/badge/License-Apache_2.0-blue.svg?labelColor=%20%239b8afb&color=%20%237a5af8)](https://github.com/rte-design/ASTRA.ai/blob/main/LICENSE)
+[![Follow on X](https://img.shields.io/twitter/follow/AstraFramework?logo=X\&color=%20%23f5f5f5)](https://twitter.com/intent/follow?screen\_name=AstraFramework) [![Discussion posts](https://img.shields.io/github/discussions/rte-design/astra.ai?labelColor=%20%23FDB062\&color=%20%23f79009)](https://github.com/rte-design/astra.ai/discussions/) [![Commits](https://img.shields.io/github/commit-activity/m/rte-design/astra.ai?labelColor=%20%237d89b0\&color=%20%235d6b98)](https://github.com/rte-design/astra.ai/graphs/commit-activity) [![Issues closed](https://img.shields.io/github/issues-search?query=repo%3Arte-design%2Fastra.ai%20is%3Aclosed\&label=issues%20closed\&labelColor=green\&color=green)](https://github.com/rte-design/ASTRA.ai/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rte-design/ASTRA.ai/pulls) [![GitHub license](https://img.shields.io/badge/License-Apache\_2.0-blue.svg?labelColor=%20%239b8afb\&color=%20%237a5af8)](https://github.com/rte-design/ASTRA.ai/blob/main/LICENSE/README.md)
 
 [![Discord ASTRA Community](https://dcbadge.vercel.app/api/server/VnPftUzAMJ)](https://discord.gg/VnPftUzAMJ)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/rte-design/astra.ai?style=social&label=Watch)](https://GitHub.com/rte-design/astra.ai/watchers/?WT.mc_id=academic-105485-koreyst)
-[![GitHub forks](https://img.shields.io/github/forks/rte-design/astra.ai?style=social&label=Fork)](https://GitHub.com/rte-design/astra.ai/network/?WT.mc_id=academic-105485-koreyst)
-[![GitHub stars](https://img.shields.io/github/stars/rte-design/astra.ai?style=social&label=Star)](https://GitHub.com/rte-design/astra.ai/stargazers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub watchers](https://img.shields.io/github/watchers/rte-design/astra.ai?style=social\&label=Watch)](https://github.com/rte-design/astra.ai/watchers/?WT.mc\_id=academic-105485-koreyst) [![GitHub forks](https://img.shields.io/github/forks/rte-design/astra.ai?style=social\&label=Fork)](https://github.com/rte-design/astra.ai/network/?WT.mc\_id=academic-105485-koreyst) [![GitHub stars](https://img.shields.io/github/stars/rte-design/astra.ai?style=social\&label=Star)](https://github.com/rte-design/astra.ai/stargazers/?WT.mc\_id=academic-105485-koreyst)
 
-<a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-lightgrey"></a>
-<a href="./docs/readmes/README-CN.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-lightgrey"></a>
+[![README in English](https://img.shields.io/badge/English-lightgrey)](./) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](docs/readmes/readme-cn.md)
 
-[Lightning Fast](./docs/astra-architecture.md)
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[Multimodal Interactive](./docs/astra-architecture.md#astra-extension)
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[Highly Customizable](./docs/astra-architecture.md#-astra-extension-store)
+[Lightning Fast](docs/astra-architecture.md)   •   [Multimodal Interactive](docs/astra-architecture.md#astra-extension)   •   [Highly Customizable](docs/astra-architecture.md#-astra-extension-store)
 
-</div>
+\
 
-<br>
-<h2>Voice agent: Astra</h2>
+
+### Voice agent: Astra
 
 [Voice agent: Astra](https://theastra.ai)
 
-We showcase an impressive voice agent called Astra, powered by TEN, demonstrating its ability to create intuitive and seamless conversational interactions.
+Astra is a voice agent, powered by TEN, demonstrating its ability to create intuitive and seamless conversational interactions.
 
-[![Showcase Astra](https://github.com/rte-design/ASTRA.ai/raw/main/images/astra-voice-agent.gif)](https://theastra.ai)
-
-<br>
-<h2>How to build voice agent locally</h2>
+[![Showcase Astra](https://github.com/rte-design/docs/blob/main/assets/gifs/astra-voice-agent.gif?raw=true)](https://theastra.ai)\
 
 
+### How to build voice agent locally
 
 #### Prerequisites
 
-- Agora App ID and App Certificate([read here on how](https://docs.agora.io/en/video-calling/get-started/manage-agora-account?platform=web))
-- Azure's [speech-to-text](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text) and [text-to-speech](https://azure.microsoft.com/en-us/products/ai-services/text-to-speech) API keys
-- [OpenAI](https://openai.com/index/openai-api/) API key
-- [Docker](https://www.docker.com/)
-- [Node.js(LTS) v18](https://nodejs.org/en)
+**Keys**
 
-#### Docker setting on apple silicon
-You will need to uncheck "Use Rosetta for x86_64/amd64 emulation on apple silicon" option for Docker if you are on Apple Silicon, otherwise the server is not gonna work.
+* Agora App ID and App Certificate([read here on how](https://docs.agora.io/en/video-calling/get-started/manage-agora-account?platform=web))
+* Azure's [speech-to-text](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text) and [text-to-speech](https://azure.microsoft.com/en-us/products/ai-services/text-to-speech) API keys
+* [OpenAI](https://openai.com/index/openai-api/) API key
 
-<div align="center">
+**Installation**
 
-![Docker Setting](https://github.com/rte-design/ASTRA.ai/raw/main/images/docker-setting.gif)
+* [Docker](https://www.docker.com/) / [Docker Compose](https://docs.docker.com/compose/)
+* [Node.js(LTS) v18](https://nodejs.org/en)
 
-</div>
+**Minimum system requirements**
 
+* CPU >= 2 Core
+* RAM >= 4 GB
 
-#### 1. Create manifest.json
+**Docker setting on Apple Silicon**
 
-```bash
-# Create manifest.json from the example
-cp ./agents/manifest.json.example ./agents/manifest.json
-```
+You will need to uncheck "Use Rosetta for x86\_64/amd64 emulation on Apple Silicon" option for Docker if you are on Apple Silicon, otherwise the server is not going to work.
 
-#### 2. Modify prompt and greeting
+![Docker Setting](https://github.com/rte-design/docs/blob/main/assets/gifs/docker-setting.gif?raw=true)
 
-```js
-// Feel free to edit prompt and greeting in manifest.json
-"property": {
-    "base_url": "",
-    "api_key": "<openai_api_key>",
-    "frequency_penalty": 0.9,
-    "model": "gpt-3.5-turbo",
-    "max_tokens": 512,
-    "prompt": "", // prompt
-    "proxy_url": "",
-    "greeting": "Astra agent connected. How can I help you today?", // greeting
-    "max_memory_length": 10
-}
-```
+#### Next step
 
-#### 3. Create agent in Docker container
+**1. Prepare config files**
+
+In the root of the project, create these files from the examples. They will be used to store information for Docker Compose later.
 
 ```bash
-# In CLI, pull Docker image and mount the target directory
-docker run -itd -v $(pwd):/app -w /app -p 8080:8080 --name astra_agents_dev ghcr.io/rte-design/astra_agents_build
+# Create .env from the example
+cp ./.env.example ./.env
 
-# Windows Git Bash
-# docker run -itd -v //$(pwd):/app -w //app -p 8080:8080 --name astra_agents_dev ghcr.io/rte-design/astra_agents_build
-
-# Enter container
-docker exec -it astra_agents_dev bash
-
-# Create agent
-make build
+# Create property.json from the example
+cp ./agents/property.json.example ./agents/property.json
 ```
 
-#### 4. Export env variables and start server
+**2. Setup API keys & Environment variables in .env file**
 
+Open the `.env` file and fill in the keys and regions. This is also where you can choose to use any different extensions:
 
-```bash
-# In the same CLI window, set env variables
-export AGORA_APP_ID=<your_agora_appid>
-export AGORA_APP_CERTIFICATE=<your_agora_app_certificate>
+```
+# Agora App ID and Agora App Certificate
+# required: this variable must be set
+AGORA_APP_ID=
+AGORA_APP_CERTIFICATE=
 
-# OpenAI API key
-export OPENAI_API_KEY=<your_openai_api_key>
-
+# Extension: agora_rtc
 # Azure STT key and region
-export AZURE_STT_KEY=<your_azure_stt_key>
-export AZURE_STT_REGION=<your_azure_stt_region>
+AZURE_STT_KEY=
+AZURE_STT_REGION=
 
+# Extension: azure_tts
 # Azure TTS key and region
-export AZURE_TTS_KEY=<your_azure_tts_key>
-export AZURE_TTS_REGION=<your_azure_tts_region>
+AZURE_TTS_KEY=
+AZURE_TTS_REGION=
+
+# Extension: openai_chatgpt
+# OpenAI API key
+OPENAI_API_KEY=
+```
+
+**3. Start agent builder toolkit containers**
+
+In the same directory, run the `docker` command to compose containers:
+
+```bash
+# Execute docker compose up to start the services
+docker compose up
+```
+
+**4. Build your agent and start server**
+
+Open up a separate terminal window, build the agent and start the server:
+
+```bash
+# Enter container to build agent
+docker exec -it astra_agents_dev bash
+make build
 
 # Run server on port 8080
 make run-server
 ```
 
-#### 5. Connect voice agent UI to server
+**5. Use graph designer to customize voice agent**
 
-Open a separate Terminal tab and run the commands:
+You can open https://localhost:3001 in browser to use your graph designer. Simultaneously, open another tab at https://localhost:3000 to see the customized voice agent up and running.
 
-```bash
-# Create a .env file from example
-cd playground
-cp .env.example .env
+Now you have the power of the Graph Designer at your fingertips to perform the magic of agent customization yourself. 🎉
 
-# Install dependencies and start dev environment in localhost:3000
-npm install && npm run dev
-```
+**Graph designer**
 
-#### 6. Verify your customized voice agent 🎉
+TEN Graph Designer (beta), a tool that requires zero coding knowledge and makes the experience of creating agentic applications smoother.
 
-Open `localhost:3000` in your browser, you should be seeing a voice agent just like the Astra, yet with your own customizations.
+![TEN Graph Designer](https://github.com/rte-design/docs/blob/main/assets/gifs/graph-designer.gif?raw=true)
 
-<br>
-<h2>Voice agent architecture </h2>
-
-To explore further, the voice agent is an excellent starting point. It incorporates various extensions, some of which are interchangeable. Feel free to select the ones that best suit your needs and maximize its capabilities.
+\
 
 
-| Extension          | Feature        | Description                                                                                                                                                                                                          |
-| ------------------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| openai_chatgpt     | LLM            | [ GPT-4o ](https://platform.openai.com/docs/models/gpt-4o), [ GPT-4 Turbo ](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4), [ GPT-3.5 Turbo ](https://platform.openai.com/docs/models/gpt-3-5-turbo) |
-| elevenlabs_tts     | Text-to-speech | [ElevanLabs text to speech](https://elevenlabs.io/) converts text to audio                                                                                                                                           |
-| azure_tts          | Text-to-speech | [Azure text to speech](https://azure.microsoft.com/en-us/products/ai-services/text-to-speech) converts text to audio                                                                                                 |
-| azure_stt          | Speech-to-text | [Azure speech to text](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text) converts audio to text                                                                                                 |
-| chat_transcriber   | Transcriber    | A utility ext to forward chat logs into channel                                                                                                                                                                      |
-| agora_rtc          | Transporter    | A low latency transporter powered by agora_rtc                                                                                                                                                                       |
-| interrupt_detector | Interrupter    | A utility ext to help interrupt agent                                                                                                                                                                                |
+### TEN Service
 
-<br>
-<h2>TEN Service</h2>
-<h3>Discover More</h3>
+Now that you’ve created your first AI agent, the creativity doesn't stop here. To develop more amazing agents, you’ll need an advanced understanding of how the TEN works under the hood. Please refer to the [TEN service documentation ](docs/astra-architecture.md).
 
-Now that you’ve created your first AI agent, the creativity doesn’t stop here. To develop more amazing agents, you’ll need an advanced understanding of how the TEN works under the hood. Please refer to the [ TEN service documentation ](./docs/astra-architecture.md).
+\
 
-<br>
-<h2>Stay Tuned</h2>
+
+### Stay Tuned
 
 Before we dive further, be sure to star our repository and get instant notifications for all new releases!
 
-![TEN star us gif](https://github.com/rte-design/ASTRA.ai/raw/main/images/star-the-repo-confetti-higher-quality.gif)
+![TEN star us gif](https://github.com/rte-design/docs/blob/main/assets/gifs/star-the-repo-confetti-higher-quality.gif?raw=true)
 
-<br>
-<h2>Join Community</h2>
+\
 
-- [Discord](https://discord.gg/VnPftUzAMJ): Ideal for sharing your applications and engaging with the community.
-- [Github Discussion](https://github.com/rte-design/astra.ai/discussions): Perfect for providing feedback and asking questions.
-- [GitHub Issues](https://github.com/rte-design/astra.ai/issues): Best for reporting bugs and proposing new features. Refer to our [contribution guidelines](./docs/code-of-conduct/contributing.md) for more details.
-- [X (formerly Twitter)](https://twitter.com/intent/follow?screen_name=AstraFramework): Great for sharing your agents and interacting with the community.
 
- <br>
- <h2>Code Contributors</h2>
+### Join Community
+
+* [Discord](https://discord.gg/VnPftUzAMJ): Ideal for sharing your applications and engaging with the community.
+* [GitHub Discussion](https://github.com/rte-design/astra.ai/discussions): Perfect for providing feedback and asking questions.
+* [GitHub Issues](https://github.com/rte-design/astra.ai/issues): Best for reporting bugs and proposing new features. Refer to our [contribution guidelines](docs/code-of-conduct/contributing.md) for more details.
+* [X (formerly Twitter)](https://twitter.com/intent/follow?screen\_name=AstraFramework): Great for sharing your agents and interacting with the community.
+
+\
+
+
+### Code Contributors
 
 [![TEN](https://contrib.rocks/image?repo=rte-design/astra.ai)](https://github.com/rte-design/astra.ai/graphs/contributors)
 
-<br>
-<h2>Contribution Guidelines</h2>
+\
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-<br>
-<h2>License</h2>
+### Contribution Guidelines
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Please read the [contribution guidelines](https://github.com/rte-design/ASTRA.ai/blob/main/CONTRIBUTING.md) first.
+
+\
+
+
+### License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](https://github.com/rte-design/ASTRA.ai/blob/main/LICENSE/README.md) file for details.
