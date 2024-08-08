@@ -30,3 +30,7 @@
       * [Amazon Bedrock LLM Extension](agents/addon/extension/bedrock\_llm\_python.md)
       * [openai\_chatgpt](agents/addon/extension/openai\_chatgpt.md)
       * [Amazon Polly TTS Extension](agents/addon/extension/polly\_tts.md)
+
+## Test group
+
+* [Test page](test-group/test-page.md)
